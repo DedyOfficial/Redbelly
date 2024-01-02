@@ -8,11 +8,9 @@
 
 **Token Symbol :**  `RED` </br>
 
- [Remix IDE](https://remix.ethereum.org/). Remix is one of the commonly used development environments for smart contracts on Ethereum.
-
 [Open Remix](https://remix.ethereum.org/) and click on the `New File`
 
-Name your file, in our case we've named it `Redbelly.sol` - yes, that [famous token standard](https://eips.ethereum.org/EIPS/eip-20)
+Name your file, in our case we've named it `Redbelly.sol` - yes, that [famous token standard]
 
 
 Now add code. 
@@ -40,5 +38,3 @@ Now click to the `Deploy & Run Transactions` on the left in the sidebar and open
 
 
 You will see your contract has been successfully deployed.
-
-#### Reach us for more engagement <a id="reach-us-for-more-engagement"></a>
